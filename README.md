@@ -26,5 +26,9 @@ Here's a first go at a music syncing Python script between Spotify and GPM. Only
 ## Planned features
 * Better credential entry
 * Better querying/song matching
+  * Partial matching
+  * Second query without artist if first yields no results
 * Better playlist checking/updating
+  * Playlist creation / check for existing playlist
+  * Deleting / matching GPM playlist with corresponding playlist on Spotify
 * Weekly scheduler for automatic playlist 'syncing'
