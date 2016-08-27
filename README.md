@@ -3,6 +3,7 @@ Here's a first go at a music syncing Python script between Spotify and GPM. Only
 
 ## Requirements
 [Spotipy](https://spotipy.readthedocs.io/en/latest/): Python library for the Spotify Web API
+
 [gmusicapi](https://unofficial-google-music-api.readthedocs.io/en/latest/): an unofficial api for Google Play Music
 
 ## Quick start
